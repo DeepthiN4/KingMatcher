@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KingMatcher/static/css/main.2da524b8.chunk.css",
+    "main.js": "/KingMatcher/static/js/main.71c1d1da.chunk.js",
+    "main.js.map": "/KingMatcher/static/js/main.71c1d1da.chunk.js.map",
+    "runtime-main.js": "/KingMatcher/static/js/runtime-main.402b1871.js",
+    "runtime-main.js.map": "/KingMatcher/static/js/runtime-main.402b1871.js.map",
+    "static/js/2.4bd328cf.chunk.js": "/KingMatcher/static/js/2.4bd328cf.chunk.js",
+    "static/js/2.4bd328cf.chunk.js.map": "/KingMatcher/static/js/2.4bd328cf.chunk.js.map",
+    "index.html": "/KingMatcher/index.html",
+    "static/css/main.2da524b8.chunk.css.map": "/KingMatcher/static/css/main.2da524b8.chunk.css.map",
+    "static/js/2.4bd328cf.chunk.js.LICENSE.txt": "/KingMatcher/static/js/2.4bd328cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.402b1871.js",
+    "static/js/2.4bd328cf.chunk.js",
+    "static/css/main.2da524b8.chunk.css",
+    "static/js/main.71c1d1da.chunk.js"
+  ]
+}
