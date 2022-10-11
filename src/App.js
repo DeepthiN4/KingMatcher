@@ -42,7 +42,7 @@ function App() {
     
     if(choiceOne&&choiceTwo){
       setDisabled(true)
-      if(choiceOne.src ==choiceTwo.src){
+      if(choiceOne.src ===choiceTwo.src){
         setCards(prevCards=>{
           return prevCards.map(card=>{
             if(card.src===choiceOne.src){
